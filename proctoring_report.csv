@@ -1,0 +1,21 @@
+Candidate Name,Interview Duration (seconds),Number of times focus lost,Suspicious Events Count,Final Integrity Score
+Aniket Singh,53,2,15,0/100
+
+timestamp,event
+2025-09-17 07:06:09,User Looking Away
+2025-09-17 07:06:12,Unauthorized Item: cell phone
+2025-09-17 07:06:17,Unauthorized Item: cell phone
+2025-09-17 07:06:34,No Face Detected
+2025-09-17 07:06:41,User Looking Away
+2025-09-17 07:06:46,Unauthorized Item: cell phone
+2025-09-17 07:06:48,Multiple Faces Detected
+2025-09-17 07:06:48,Unauthorized Item: cell phone
+2025-09-17 07:06:48,Multiple Faces Detected
+2025-09-17 07:06:48,Unauthorized Item: cell phone
+2025-09-17 07:06:48,Multiple Faces Detected
+2025-09-17 07:06:48,Unauthorized Item: cell phone
+2025-09-17 07:06:48,Multiple Faces Detected
+2025-09-17 07:06:48,Unauthorized Item: cell phone
+2025-09-17 07:06:48,Multiple Faces Detected
+2025-09-17 07:06:48,Unauthorized Item: cell phone
+2025-09-17 07:06:48,Multiple Faces Detected
