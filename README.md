@@ -55,3 +55,11 @@ This project has two main files:
     ```bash
     streamlit run app.py
     ```
+
+    ### Project Versions
+
+This repository contains two main executable files for the application:
+
+* **`main.py` (Full-Featured Local Version):** This is the complete project file containing all the real-time AI features, including Focus Detection (Gaze, Absence, Multiple Faces), Object Detection (Phone, Books), and detailed report generation. It is designed to be run locally for the best performance and functionality. **The demo video was recorded using this version.**
+
+* **`app.py` (Deployed Web Version):** This is a lightweight version created specifically to fulfill the "Live Deployed Link" requirement. It showcases the web application structure and live video streaming using Streamlit. To ensure a smooth user experience on standard hardware without a dedicated GPU, the computationally intensive, real-time AI models have been omitted from this deployed version. The complete code and functionality can be reviewed in the `main.py` file and the demo video.
